@@ -1,2 +1,2 @@
 # CV-Carolanne-Van-Belleghem
-Consultation du CV en ligne 
+Viewing a resume online / Consultation du CV en ligne 
